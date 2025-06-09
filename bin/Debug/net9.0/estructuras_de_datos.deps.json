@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "estructuras_de_datos/1.0.0": {
+        "runtime": {
+          "estructuras_de_datos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estructuras_de_datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
