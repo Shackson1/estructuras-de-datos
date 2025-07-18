@@ -1,0 +1,15 @@
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\bin\Debug\net9.0\ejercicio_2.exe
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\bin\Debug\net9.0\ejercicio_2.deps.json
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\bin\Debug\net9.0\ejercicio_2.runtimeconfig.json
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\bin\Debug\net9.0\ejercicio_2.dll
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\bin\Debug\net9.0\ejercicio_2.pdb
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\ejercicio_2.AssemblyInfoInputs.cache
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\ejercicio_2.AssemblyInfo.cs
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\ejercicio_2.sourcelink.json
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\ejercicio_2.dll
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\refint\ejercicio_2.dll
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\ejercicio_2.pdb
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\ejercicio_2.genruntimeconfig.cache
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_7\ejercicio_2\obj\Debug\net9.0\ref\ejercicio_2.dll
