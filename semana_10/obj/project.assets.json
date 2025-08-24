@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Universidad\\tercer semestre\\Estructuras de datos\\Tercer semestre\\proyecto\\estructuras-de-datos\\estructuras_de_datos.csproj",
-      "projectName": "estructuras_de_datos",
-      "projectPath": "C:\\Users\\USER\\Universidad\\tercer semestre\\Estructuras de datos\\Tercer semestre\\proyecto\\estructuras-de-datos\\estructuras_de_datos.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Universidad\\tercer semestre\\Estructuras de datos\\Tercer semestre\\proyecto\\estructuras-de-datos\\semana_10\\semana_10.csproj",
+      "projectName": "semana_10",
+      "projectPath": "C:\\Users\\USER\\Universidad\\tercer semestre\\Estructuras de datos\\Tercer semestre\\proyecto\\estructuras-de-datos\\semana_10\\semana_10.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Universidad\\tercer semestre\\Estructuras de datos\\Tercer semestre\\proyecto\\estructuras-de-datos\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Universidad\\tercer semestre\\Estructuras de datos\\Tercer semestre\\proyecto\\estructuras-de-datos\\semana_10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

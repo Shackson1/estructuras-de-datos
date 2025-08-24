@@ -13,3 +13,11 @@ C:\Users\Dell\Documents\Universidad\Tercer nivel\Estructuras de datos\proyecto\e
 C:\Users\Dell\Documents\Universidad\Tercer nivel\Estructuras de datos\proyecto\estructuras_de_datos\obj\Debug\net9.0\estructuras_de_datos.genruntimeconfig.cache
 C:\Users\Dell\Documents\Universidad\Tercer nivel\Estructuras de datos\proyecto\estructuras_de_datos\obj\Debug\net9.0\ref\estructuras_de_datos.dll
 C:\Users\Dell\Documents\Universidad\Tercer nivel\Estructuras de datos\proyecto\estructuras_de_datos\obj\Debug\net9.0\estructuras_de_datos.sourcelink.json
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\obj\Debug\net9.0\estructuras_de_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\obj\Debug\net9.0\estructuras_de_datos.AssemblyInfoInputs.cache
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\obj\Debug\net9.0\estructuras_de_datos.AssemblyInfo.cs
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\obj\Debug\net9.0\estructuras_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\obj\Debug\net9.0\estructuras_de_datos.sourcelink.json
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\obj\Debug\net9.0\estructuras_de_datos.dll
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\obj\Debug\net9.0\refint\estructuras_de_datos.dll
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\obj\Debug\net9.0\estructuras_de_datos.pdb
