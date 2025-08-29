@@ -1,16 +1,16 @@
 ﻿// Usamos el espacio de nombres System para acceder a funcionalidades básicas de la consola como Console.WriteLine y Console.ReadLine.
 using System;
 
-/// <summary>
+
 /// Esta es la clase principal del programa, donde todo comienza.
 /// Se encarga de mostrar el menú al usuario, leer sus entradas y coordinar las acciones
 /// con la clase Traductor.
-/// </summary>
+
 public class Programa
 {
-    /// <summary>
+    
     /// El método Main es el punto de entrada de nuestra aplicación.
-    /// </summary>
+    
     static void Main(string[] args)
     {
         // Creamos una instancia de nuestra clase Traductor para poder usar sus métodos.

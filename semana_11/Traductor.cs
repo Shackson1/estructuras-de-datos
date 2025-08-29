@@ -3,11 +3,11 @@ using System.Collections.Generic;
 // Usamos el espacio de nombres System.Text para poder utilizar la clase StringBuilder, que es eficiente para construir cadenas de texto.
 using System.Text;
 
-/// <summary>
+
 /// Esta clase se encarga de gestionar el diccionario de palabras y la lógica de traducción.
 /// Contiene un diccionario privado que almacena los pares de palabras (español-inglés)
 /// y los métodos para interactuar con él.
-/// </summary>
+
 public class Traductor
 {
     // Declaramos un diccionario privado para almacenar las palabras.
@@ -15,10 +15,10 @@ public class Traductor
     // Usar la palabra en español como clave hace que la búsqueda para la traducción sea muy rápida.
     private Dictionary<string, string> diccionarioDePalabras;
 
-    /// <summary>
+   
     /// Este es el constructor de la clase. Se ejecuta automáticamente cuando creamos un nuevo objeto Traductor.
     /// Su función es inicializar el diccionario y llenarlo con una lista base de palabras.
-    /// </summary>
+    
     public Traductor()
     {
         // Creamos una nueva instancia del diccionario.
@@ -49,9 +49,9 @@ public class Traductor
         diccionarioDePalabras.Add("empresa", "company");
     }
 
-    /// <summary>
+   
     /// Este método se encarga de traducir una frase completa del español al inglés.
-    /// </summary>
+    
     /// <param name="fraseOriginal">La frase en español que el usuario desea traducir.</param>
     /// <returns>Una cadena de texto con la frase traducida parcialmente.</returns>
     public string TraducirFrase(string fraseOriginal)
@@ -90,9 +90,9 @@ public class Traductor
         return fraseTraducida.ToString().Trim();
     }
 
-    /// <summary>
+   
     /// Este método permite añadir un nuevo par de palabras (español-inglés) al diccionario.
-    /// </summary>
+    
     /// <param name="palabraEnEspañol">La palabra en español que funcionará como clave.</param>
     /// <param name="palabraEnIngles">La traducción en inglés que funcionará como valor.</param>
     public void AgregarNuevaPalabra(string palabraEnEspañol, string palabraEnIngles)
