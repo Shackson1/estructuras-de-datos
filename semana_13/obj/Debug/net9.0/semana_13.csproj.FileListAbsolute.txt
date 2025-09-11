@@ -1,0 +1,15 @@
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\bin\Debug\net9.0\semana_13.exe
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\bin\Debug\net9.0\semana_13.deps.json
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\bin\Debug\net9.0\semana_13.runtimeconfig.json
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\bin\Debug\net9.0\semana_13.dll
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\bin\Debug\net9.0\semana_13.pdb
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\semana_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\semana_13.AssemblyInfoInputs.cache
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\semana_13.AssemblyInfo.cs
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\semana_13.csproj.CoreCompileInputs.cache
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\semana_13.sourcelink.json
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\semana_13.dll
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\refint\semana_13.dll
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\semana_13.pdb
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\semana_13.genruntimeconfig.cache
+C:\Users\USER\Universidad\tercer semestre\Estructuras de datos\Tercer semestre\proyecto\estructuras-de-datos\semana_13\obj\Debug\net9.0\ref\semana_13.dll
